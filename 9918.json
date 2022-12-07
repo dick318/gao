@@ -1,15 +1,15 @@
 {
-  "spider": "https://raw.iqiq.io/dick318/gao/master/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949",
+  "spider": "https://raw.fastgit.org/dick318/gao/master/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949",
   "lives": [
     {
       "name": "节目线路一",
       "type": 0,
-      "url": "https://raw.iqiq.io/dick318/gao/master/listx.txt"
+      "url": "https://raw.fastgit.org/dick318/gao/master/listx.txt"
     },
     {
       "name": "节目线路二",
       "type": 0,
-      "url": "https://raw.iqiq.io/dick318/gao/master/listx.m3u"
+      "url": "https://raw.fastgit.org/dick318/gao/master/listx.m3u"
     }
   ],
   "wallpaper": "https://gao.chuqiuyu.tk",
@@ -147,8 +147,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/dick318/gao/master/json/qq.json",
-      "jar": "https://raw.iqiq.io/dick318/gao/master/jar/xo.jar"
+      "ext": "https://raw.fastgit.org/dick318/gao/master/json/qq.json",
+      "jar": "https://raw.fastgit.org/dick318/gao/master/jar/xo.jar"
     },
     {
       "key": "s嗷嗷",
@@ -158,8 +158,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/dick318/gao/master/json/881.json",
-      "jar": "https://raw.iqiq.io/dick318/gao/master/jar/xo.jar"
+      "ext": "https://raw.fastgit.org/dick318/gao/master/json/881.json",
+      "jar": "https://raw.fastgit.org/dick318/gao/master/jar/xo.jar"
     },
     {
       "key": "91色色",
@@ -169,8 +169,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/dick318/gao/master/json/79.json",
-      "jar": "https://raw.iqiq.io/dick318/gao/master/jar/xo.jar"
+      "ext": "https://raw.fastgit.org/dick318/gao/master/json/79.json",
+      "jar": "https://raw.fastgit.org/dick318/gao/master/jar/xo.jar"
     },
     {
       "key": "kd",
@@ -194,50 +194,50 @@
       "key": "drpy_js_猫了个咪",
       "name": "猫了个咪",
       "type": 3,
-      "api": "https://raw.iqiq.io/dick318/gao/master/lib/drpy.js",
-      "ext": "https://raw.iqiq.io/dick318/gao/master/js/猫了个咪.js"
+      "api": "https://raw.fastgit.org/dick318/gao/master/lib/drpy.js",
+      "ext": "https://raw.fastgit.org/dick318/gao/master/js/猫了个咪.js"
     },
     {
       "key": "drpy_js_玩偶姐姐",
       "name": "玩偶姐姐",
       "type": 3,
-      "api": "https://raw.iqiq.io/dick318/gao/master/lib/drpy.js",
-      "ext": "https://raw.iqiq.io/dick318/gao/master/js/玩偶姐姐.js"
+      "api": "https://raw.fastgit.org/dick318/gao/master/lib/drpy.js",
+      "ext": "https://raw.fastgit.org/dick318/gao/master/js/玩偶姐姐.js"
     },
     {
       "key": "drpy_js_朱古力",
       "name": "朱古力",
       "type": 3,
-      "api": "https://raw.iqiq.io/dick318/gao/master/lib/drpy.js",
-      "ext": "https://raw.iqiq.io/dick318/gao/master/js/朱古力.js"
+      "api": "https://raw.fastgit.org/dick318/gao/master/lib/drpy.js",
+      "ext": "https://raw.fastgit.org/dick318/gao/master/js/朱古力.js"
     },
     {
       "key": "drpy_js_吸瓜",
       "name": "吸瓜",
       "type": 3,
-      "api": "https://raw.iqiq.io/dick318/gao/master/lib/drpy.js",
-      "ext": "https://raw.iqiq.io/dick318/gao/master/js/吸瓜.js"
+      "api": "https://raw.fastgit.org/dick318/gao/master/lib/drpy.js",
+      "ext": "https://raw.fastgit.org/dick318/gao/master/js/吸瓜.js"
     },
     {
       "key": "drpy_js_banan",
       "name": "banan",
       "type": 3,
-      "api": "https://raw.iqiq.io/dick318/gao/master/lib/drpy.min.js",
-      "ext": "https://raw.iqiq.io/dick318/gao/master/js/banan.js"
+      "api": "https://raw.fastgit.org/dick318/gao/master/lib/drpy.min.js",
+      "ext": "https://raw.fastgit.org/dick318/gao/master/js/banan.js"
     },
     {
       "key": "drpy_js_Missav",
       "name": "Missav",
       "type": 3,
-      "api": "https://raw.iqiq.io/dick318/gao/master/lib/drpy.min.js",
-      "ext": "https://raw.iqiq.io/dick318/gao/master/js/Missav.js"
+      "api": "https://raw.fastgit.org/dick318/gao/master/lib/drpy.min.js",
+      "ext": "https://raw.fastgit.org/dick318/gao/master/js/Missav.js"
     },
     {
       "key": "drpy_js_18av",
       "name": "18av",
       "type": 3,
-      "api": "https://raw.iqiq.io/dick318/gao/master/lib/drpy.min.js",
-      "ext": "https://raw.iqiq.io/dick318/gao/master/js/18av.js"
+      "api": "https://raw.fastgit.org/dick318/gao/master/lib/drpy.min.js",
+      "ext": "https://raw.fastgit.org/dick318/gao/master/js/18av.js"
     },
     {
       "key": "麻豆传媒",
@@ -247,8 +247,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/dick318/gao/master/json/madou.json",
-      "jar": "https://raw.iqiq.io/dick318/gao/master/jar/xo.jar"
+      "ext": "https://raw.fastgit.org/dick318/gao/master/json/madou.json",
+      "jar": "https://raw.fastgit.org/dick318/gao/master/jar/xo.jar"
     },
     {
       "key": "Gaoav",
@@ -258,8 +258,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/dick318/gao/master/json/Gaoav.json",
-      "jar": "https://raw.iqiq.io/dick318/gao/master/jar/xo.jar"
+      "ext": "https://raw.fastgit.org/dick318/gao/master/json/Gaoav.json",
+      "jar": "https://raw.fastgit.org/dick318/gao/master/jar/xo.jar"
     },
     {
       "key": "2022xxj",
@@ -269,8 +269,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/dick318/gao/master/json/2022xxj.json",
-      "jar": "https://raw.iqiq.io/dick318/gao/master/jar/xo.jar"
+      "ext": "https://raw.fastgit.org/dick318/gao/master/json/2022xxj.json",
+      "jar": "https://raw.fastgit.org/dick318/gao/master/jar/xo.jar"
     },
     {
       "key": "紙條",
@@ -288,7 +288,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/dick318/gao/master/json/Alist1.json"
+      "ext": "https://raw.fastgit.org/dick318/gao/master/json/Alist1.json"
     },
     {
       "key": "Bili",
@@ -298,7 +298,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://raw.iqiq.io/dick318/gao/master/json/bilibili.json"
+      "ext": "https://raw.fastgit.org/dick318/gao/master/json/bilibili.json"
     },
     {
       "key": "madouse.la",
